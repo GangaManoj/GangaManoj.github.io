@@ -30,12 +30,12 @@ pygmentsUseClasses = true
   addFrame = true
   # 
   # Colors
-  highlightColor = 'hsla(189, 8%, 17%, 1.00)'
+  highlightColor = "#3eabc6"
   baseColor = "#f8f7f2ff"
   baseOffsetColor = "#eaeaea"
   headingColor = "#1b1c1dff"
   textColor = "#212223ff"
-  dotColor = "hsla(189, 100%, 60%, 1.00)"
+  dotColor = "#3eabc6"
   # 
   # Fonts
   enableGoogleFonts = true 
