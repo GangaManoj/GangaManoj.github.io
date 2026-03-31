@@ -1,0 +1,75 @@
+baseURL = "/"
+languageCode = "en-us"
+theme = "hugo-winston-theme"
+themesDir = "themes"
+title = "Ganga Manoj"
+[pagination]
+  pagerSize = 4
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.152.0"
+
+[params]
+  google_analytics_id = ""
+  twitter_handle = ""
+  # 
+  # Layout
+  showAuthorOnHomepage = false
+  showAuthorOnPosts = false
+  showIntroContentOnHomepage = true
+  showPostsOnHomepage = true
+  usePaginationOnHomepage = false
+  limitPostsOnHomepage = 3 # only used if usePaginationOnHomepage is false
+  sortPostsByDateOldestFirst = false
+  addDot = true
+  addFrame = true
+  # 
+  # Colors
+  highlightColor = 'hsla(189, 8%, 17%, 1.00)'
+  baseColor = "#f8f7f2ff"
+  baseOffsetColor = "#eaeaea"
+  headingColor = "#1b1c1dff"
+  textColor = "#212223ff"
+  dotColor = "hsla(189, 100%, 60%, 1.00)"
+  # 
+  # Fonts
+  enableGoogleFonts = true 
+  googleFontsUrl = "https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
+  fontFamilyHeading = "Poppins"
+  fontFamilyParagraph = "Helvetica"
+  fontFamilyMonospace = "monospace"
+
+# markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
+
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = "Articles"
+    identifier = "articles"
+    weight = 2
+    url = "/posts/"
+  [[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 3
+    url = "/About/"
+  [[menu.main]]
+    name = "Tags"
+    identifier = "tags"
+    weight = 4
+    url = "/tags/"

@@ -1,0 +1,14 @@
+{
+  "links": [
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com",
+      "image": "images/social/linkedin.svg"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/GangaManoj",
+      "image": "images/social/github.svg"
+    }
+  ]
+}
