@@ -73,3 +73,7 @@ pygmentsUseClasses = true
     identifier = "about"
     weight = 3
     url = "/About/"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
