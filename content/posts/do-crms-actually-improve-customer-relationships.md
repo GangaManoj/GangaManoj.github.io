@@ -7,6 +7,7 @@ tags:
   - profile
 image: images/posts/final.png
 externalUrl: https://frappe.io/blog/product-stories/do-crms-actually-improve-customer-relationships
+draft: true
 ---
 
 CRMs were built to strengthen customer relationships, but are they actually doing the opposite? Read on to find out.

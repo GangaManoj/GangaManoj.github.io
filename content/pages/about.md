@@ -1,13 +1,20 @@
 ---
 title: 'About'
 url: '/about/'
-image: images/about.jpg
+#image: images/about.jpg
 ---
 
-I’m a coder-turned-writer who does marketing in tech, but loves to write fiction and narrative non-fiction on the side.
+I have always been a collector. Not of things, but of fragments.
 
-I hold a degree in Computer Science and have two years of experience writing code, followed by another two writing about tech and the people in it. In these two years, I’ve written blogs, sent out newsletters, crafted social media content, created handbooks and scripted videos.
+Stories half-heard at the dinner table. Strange words from old dictionaries. Objects that seem ordinary until you look at them long enough. I grew up surrounded by people who held on to things, sometimes sentimentally, sometimes stubbornly. Somewhere along the way, I realised I was doing the same, except I held on to moments and turned them over until they became stories.
 
-While my work so far has been restricted to tech, on topics ranging from SaaS and ERPs to FOSS, I’d never turn down the chance to explore other niches. I love novelty and going down rabbit holes, so you can rest assured that whatever I write will be well-researched, irrespective of the topic.
+For a long time, I thought this tendency made me unfocused. I was interested in too many things, moved on too quickly, started more than I finished. But writing gave that instinct a place to go. It allowed me to follow curiosity instead of fighting it.
 
-I primarily write short stories and blog posts, but I’m more than ready to take on the challenge of writing something longer. All good writing is about telling a story, whether it’s a novel, copy or social media post, so if you think you have a story to tell, do reach out, irrespective of the nature of your content.
+I started my career as a software developer. I liked the work, but I was always more interested in the people around it. Why they built what they built. What they cared about. What they chose not to say.
+
+Marketing, for me, became a way to explore that at scale.
+
+Most of what I’ve done so far has been in community-led storytelling for tech. Profiles, narratives, experiments. Work that tries to make companies feel less like entities and more like collections of people.
+
+If there’s a common thread, it’s this: I pay attention. And then I decide what is worth keeping.
+

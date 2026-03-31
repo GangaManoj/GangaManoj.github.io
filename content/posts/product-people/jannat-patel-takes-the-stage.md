@@ -3,8 +3,7 @@ title: 'Jannat Patel takes the stage'
 date: 2024-05-28
 description: 'The founder of Frappe Learning credits her growth to the women in her life.'
 tags:
-  - frappe
-  - profile
+  - 'People Behind the Product'
 image: images/posts/Jannat_20onstage.jpeg
 externalUrl: https://frappe.io/blog/meet-the-team/jannat-patel-takes-the-stage
 ---

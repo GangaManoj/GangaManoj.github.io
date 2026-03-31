@@ -22,7 +22,7 @@ pygmentsUseClasses = true
   showAuthorOnHomepage = false
   showAuthorOnPosts = false
   showIntroContentOnHomepage = true
-  showPostsOnHomepage = true
+  showPostsOnHomepage = false
   usePaginationOnHomepage = false
   limitPostsOnHomepage = 3 # only used if usePaginationOnHomepage is false
   sortPostsByDateOldestFirst = false
@@ -58,18 +58,18 @@ pygmentsUseClasses = true
     name = 'Home'
     url = '/'
     weight = 1
+  #[[menu.main]]
+  #  name = "Articles"
+  #  identifier = "articles"
+  #  weight = 2
+  #  url = "/posts/"
   [[menu.main]]
-    name = "Articles"
-    identifier = "articles"
+    name = "Projects"
+    identifier = "tags"
     weight = 2
-    url = "/posts/"
+    url = "/tags/"
   [[menu.main]]
     name = "About"
     identifier = "about"
     weight = 3
     url = "/About/"
-  [[menu.main]]
-    name = "Tags"
-    identifier = "tags"
-    weight = 4
-    url = "/tags/"
