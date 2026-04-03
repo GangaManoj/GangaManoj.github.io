@@ -1,4 +1,26 @@
 <div class="footer">
+  {{ $isWorkPage := or 
+    (eq .RelPermalink "/posts/community-stories/") 
+    (eq .RelPermalink "/posts/product-people/") 
+    (eq .RelPermalink "/posts/frappe-times/") 
+  }}
+
+  {{ if or (eq .RelPermalink "/about/") $isWorkPage }}
+  <div class="cta">
+    {{ if eq .RelPermalink "/about/" }}
+      <p>
+        This could be the start of a very productive email thread.
+        <a href="mailto:ganga.manoj98@gmail.com">Say hello.</a>
+      </p>
+    {{ else if $isWorkPage }}
+      <p>
+        If this feels like your kind of writing, it probably is.
+        <a href="mailto:ganga.manoj98@gmail.com">Say hello.</a>
+      </p>
+    {{ end }}
+  </div>
+  {{ end }}
+
   {{ if .Site.Data.social.links }}
   <div class="footer-social">
     {{ range .Site.Data.social.links }}

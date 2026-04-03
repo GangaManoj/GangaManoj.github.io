@@ -102,8 +102,11 @@ ul {
     }
   }
   a {
-    text-decoration: underline;
+    text-decoration: underline; // or none, your choice
+    transition: opacity 0.3s ease;
+    
     &:hover {
+      opacity: 0.75;
     }
   }
   blockquote {

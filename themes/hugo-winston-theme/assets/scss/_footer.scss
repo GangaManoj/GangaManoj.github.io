@@ -4,7 +4,55 @@
       padding-top: 40px;
     }
   }
+
+  .cta {
+    margin: 30px auto 30px;
+    max-width: 520px;
+    text-align: center;
+    position: relative;
+    color: #D6D6D4;
+    font-size: 17px;
+    line-height: 1.7;
   
+    @include breakpoint('small') {
+      margin: 30px auto 30px;
+      font-size: 19px;
+    }
+  
+    &:before {
+      content: '';
+      display: block;
+      width: 40px;
+      height: 1px;
+      background: #7A1E48;
+      opacity: 0.6;
+      margin: 0 auto 20px;
+    }
+  
+    p {
+      margin: 0;
+    }
+  
+    a {
+      color: #7A1E48;
+      text-decoration: none;
+      margin-left: 6px;
+      font-weight: 500;
+      white-space: nowrap; // 👈 prevents "Say hello." from breaking
+      transition: opacity 0.2s ease;
+  
+      &:hover {
+        opacity: 0.7; // 👈 matches your social icon behavior
+      }
+    }
+  }
+
+  .cta p {
+    @include breakpoint('small') {
+      white-space: nowrap;
+    }
+  }
+
   .social-icon {
     margin-right: 10px;
     a {

@@ -17,6 +17,12 @@ Marketing, for me, became a way to explore that at scale.
 Most of my work so far has been in community-led storytelling for tech. Profiles, narratives, experiments. Work that tries to make companies feel less like entities and more like collections of people.
 
 If there’s a common thread, it’s this: I pay attention. And then I decide what is worth keeping.
-
+<!-- <br><br> -->
+<!-- > [This could be the start of a very productive email thread.](mailto:ganga.manoj98@gmail.com). -->
+<!-- ---
+<br>
+<footer>
+  <p align="center">This could be the start of a very productive email thread. <a href="mailto:ganga.manoj98@gmail.com" style="text-decoration: none;">Say hello.</a></p>
+</footer> -->
 
 
