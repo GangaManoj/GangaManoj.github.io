@@ -14,7 +14,7 @@ Inspired by *The Onion*, the series uses humour to comment on startup culture, p
 It also doubled up as a distribution experiment. Shorter, sharper, more shareable content that could travel beyond the existing audience.
 
 
-## Selected articles
+## Selected pieces
 
 1. [Abaa charges a cat for using their software.](https://frappe.io/times/saas/abaa-charges-start-up-founder’s-cat-for-using-their-software)
 2. [Ashamed of only owning 2 holiday homes, Boom founder decides to increase annual subscription fees.](https://frappe.io/times/saas/ashamed-of-only-owning-2-holiday-homes-Boom-founder-decides-to-increase-annual-subscription-fees)

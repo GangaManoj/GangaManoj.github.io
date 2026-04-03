@@ -11,7 +11,7 @@ Most company profiles read like extended LinkedIn summaries. I wanted to move aw
 The focus was on small, telling details. Not just what someone does, but how they think, what they obsess over, what they’re quietly proud of.
 
 
-## Selected articles
+## Selected pieces
 
 1. [Deepesh Garg wants to be the best](https://frappe.io/blog/meet-the-team/deepesh-garg-wants-to-be-the-best)
 2. [Jannat Patel takes the stage](https://frappe.io/blog/meet-the-team/jannat-patel-takes-the-stage)
