@@ -18,3 +18,5 @@ Most of what I’ve done so far has been in community-led storytelling for tech.
 
 If there’s a common thread, it’s this: I pay attention. And then I decide what is worth keeping.
 
+
+

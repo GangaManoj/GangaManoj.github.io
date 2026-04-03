@@ -1,7 +1,6 @@
 ---
 title: 'Community Stories'
-date: 2023-11-24
-description: Company profiles that don't read like extended LinkedIn summaries.
+description: Profiles of builders, founders, and contributors across a company ecosystem. Structured like stories, because what they do is rarely the interesting part.
 ---
 
 ## What it is

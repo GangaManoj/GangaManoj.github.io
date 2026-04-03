@@ -6,9 +6,14 @@
       "image": "images/social/linkedin.svg"
     },
     {
-      "name": "github",
-      "url": "https://github.com/GangaManoj",
-      "image": "images/social/github.svg"
+      "name": "email",
+      "url": "mailto:ganga.manoj98@gmail.com",
+      "image": "images/social/email.svg"
+    },
+    {
+      "name": "cv",
+      "url": "/cv.pdf",
+      "image": "images/social/cv.svg"
     }
   ]
 }

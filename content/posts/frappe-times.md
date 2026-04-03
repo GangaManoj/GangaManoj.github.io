@@ -1,7 +1,6 @@
 ---
 title: 'The Frappe Times'
-date: 2023-11-24
-description: Company profiles that don't read like extended LinkedIn summaries.
+description: A satirical “newspaper” on tech and SaaS. Because the industry takes itself very seriously—and that’s usually when it’s at its funniest.
 ---
 
 ## What it is

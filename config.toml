@@ -37,19 +37,31 @@ pygmentsUseClasses = true
   # textColor = "#212223ff"
   # dotColor = "#3eabc6"
 
-  highlightColor = "#22C7F0"      
-  baseColor = "#1A222B"           
-  baseOffsetColor = "#232C36"
-  headingColor = "#FFFFFF"
-  textColor = "#E8F0F7"
-  dotColor = "#22C7F0"
-  # 
-  # Fonts
+  # # Colors
+  # highlightColor = "#7A1E48"      # Mulberry Wine (unchanged — your identity)
+  # baseColor = "#0C1426"           # Deep Ink (richer, less blue glare)
+  # baseOffsetColor = "#18182B"     # Soft Shadow (less plum, more neutral depth)
+  # headingColor = "#F9FAFB"        # Slightly brighter for crisp headings
+  # textColor = "#E6E8EB"           # Softer than pure white, easier on eyes
+  # dotColor = "#7A1E48"            # Keep consistent with highlight
+  # # 
+  #Fonts
   enableGoogleFonts = true 
   googleFontsUrl = "https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
   fontFamilyHeading = "Poppins"
   fontFamilyParagraph = "Helvetica"
   fontFamilyMonospace = "monospace"
+
+  # Colors (refined)
+
+  highlightColor = "#7A1E48"   # keep (this is your signature)
+  baseColor = "#0A0F1C"        # slightly deeper, less blue glow
+  baseOffsetColor = "#151728"  # more neutral, less purple
+  headingColor = "#F5F5F4"     # warmer than pure white (subtle, important)
+  textColor = "#D6D6D4"        # softer, almost paper-like
+  accentSoft = "#B76E79"       # optional: faded rose for hover/secondary
+  dotColor = "#7A1E48"
+
 
 # markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
 [markup]
@@ -65,16 +77,16 @@ pygmentsUseClasses = true
     name = 'Home'
     url = '/'
     weight = 1
-  #[[menu.main]]
-  #  name = "Articles"
-  #  identifier = "articles"
-  #  weight = 2
-  #  url = "/posts/"
   [[menu.main]]
-    name = "Projects"
-    identifier = "tags"
-    weight = 2
-    url = "/tags/"
+   name = "Work"
+   identifier = "articles"
+   weight = 2
+   url = "/posts/"
+  # [[menu.main]]
+  #   name = "Projects"
+  #   identifier = "tags"
+  #   weight = 2
+  #   url = "/tags/"
   [[menu.main]]
     name = "About"
     identifier = "about"

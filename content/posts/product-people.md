@@ -1,7 +1,6 @@
 ---
 title: 'People Behind the Product'
-date: 2023-11-24
-description: Company profiles that don't read like extended LinkedIn summaries.
+description: Company profiles that don’t read like LinkedIn summaries. Focused on the details that don’t make it into the bio.
 ---
 
 ## What it is
